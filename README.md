@@ -5,7 +5,7 @@
 Python file __main.py__ generates a Json File out of a Txt File (input Depot data)
 1. Start the main file
 2. Explorer opens
-3. Choose the Qplix input File (input-depot.txt)
+3. Choose the Qplix input File (input - Depot Data.txt)
 ***
 Txt Transformation to Json format
 main.py transforms the txt into the correct Json format
