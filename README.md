@@ -1,8 +1,8 @@
 # QplixCoding Test
 ***
-## Coding-Test: Transform a txt File to given Json format
+## Coding-Test: Transform a txt File to a given Json format
 ***
-Created Python file _'main.py' to generate a Json File out of a Txt File
+Created Python file __'main.py' to generate a Json File out of a Txt File
 1. Start the main file
 2. Choose import file
 3. Explorer opens
