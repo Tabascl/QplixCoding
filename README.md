@@ -8,7 +8,7 @@ Created Python file to generate a Json File out of a Txt File
 ***
 2. Explorer opens
 3. Choose the Qplix input File (input-depot.txt)
-## Txt Transformation to Josn
+## Txt Transformation to Json format
 ***
 main.py transforms the txt into the correct Json format
 Json File is stored in the actual directory
