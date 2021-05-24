@@ -1,6 +1,6 @@
 # QplixCoding
-Coding Test txt fo Json
-Python file to generate a Json out of a Txt File
+Coding-Test: txt File to Json
+Created Python file to generate a Json File out of a Txt File
 1. Start the main file
 ## Choose import file
 2. Explorer opens
